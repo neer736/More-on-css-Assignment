@@ -1,0 +1,15 @@
+.card{
+    background-color:#f8c42e;
+    height: 260px;
+    width: 330px;
+    margin: 0 auto;
+    text-align: center;
+    border-radius:20px
+}
+img{
+    border-radius: 10px;
+    margin-top:10px ;
+}
+.course{
+    margin-right: 50px;
+}

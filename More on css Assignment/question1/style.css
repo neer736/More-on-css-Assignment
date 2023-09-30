@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 70px;
+    background-color:#6495ed;
+}
+li{
+    display:inline-block;
+    padding-top: 20px;
+    margin: 0 30px;
+    font-size: 22px;
+}
+a{
+    color: white;
+}
+a:hover{
+    color: #f81905;
+}

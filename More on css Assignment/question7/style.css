@@ -1,0 +1,19 @@
+.hitesh{
+    background-color: #7fffd4;
+    width: 485px;
+    height: 380px;
+    border-radius: 20px;
+    text-align: center;
+}
+img{
+    margin-top: 15px;
+    margin-left: 5px;
+    margin-right: 10px;
+}
+.course{
+    font-size:22px;
+}
+.hitesh:hover{
+    opacity:.5;
+    
+}
